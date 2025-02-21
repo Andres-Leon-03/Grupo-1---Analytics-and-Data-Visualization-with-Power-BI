@@ -1,0 +1,11 @@
+DEFINICION KPI									
+									
+INDICADOR MENSUAL DE PORCENTAJE DE PARTICIPACION PARA LA VENTA EN DOLARES DE UNA FAMILIA DE PRODUCTOS (PPR TUBERIA)  SOBRE EL MONTO TOTAL DE VENTAS EN DOLARES DE LA EMPRESA THC PERU SAC									
+								
+Definicion									
+Este indicador mide el porcentaje de participacion mensual que tiene la venta en dolares por familia de productos (PPR-TUBERIA) respecto a las ventas totales en dolares de todas las familias (PPR-ACCESORIO, PPR-DRAIN SYSTEM, PPR-ACI, VALCO, HERRAMIENTAS, ETC) que comercializa la empresa THC PERU SAC									
+									
+Formula									
+Monto Total de Ventas Mensuales en dolares para la famila de productos PPR Tuberia							
+-----------------------------------------------------------------------------------  x 100	
+Monto Total de Ventas Mensuales en dolares para todas las familas de productos									
